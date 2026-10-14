@@ -1,0 +1,8 @@
+.claude/
+tasks/
+node_modules/
+dist/
+test-results/
+playwright-report/
+supabase/.temp/
+package-lock.json

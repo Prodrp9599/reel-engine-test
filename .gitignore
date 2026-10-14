@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*-debug.log
+*.local
+.env
+.env.*
+graphify-out/
+test-results/
+playwright-report/
