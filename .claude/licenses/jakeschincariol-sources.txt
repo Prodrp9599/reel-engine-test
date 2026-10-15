@@ -1,0 +1,3 @@
+instagram-agent-skill @ d03c56b
+linkedin-agent-skill @ add2c23
+founder-skill @ fd9385b
